@@ -18,6 +18,8 @@ public class DeadLock {
 		t1.join();
 		t2.join();
 		
+
+		
 		//sm.methodA();
 	}
 
